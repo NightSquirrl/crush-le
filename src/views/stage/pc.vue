@@ -67,7 +67,7 @@ const handleOver = () => {
   text-align: center;
   background-color: #ccc;
   background-image: url("@/assets/images/bg.jpg");
-  background-size: 100% 100%;
+  background-size: cover;
   .stage {
     position: absolute;
     top: 50%;
@@ -129,7 +129,7 @@ const handleOver = () => {
     width: 100%;
     height: 100%;
     background-image: url("@/assets/images/bg.jpg");
-    background-size: 100% 100%;
+    background-size: cover;
     z-index: 2;
     overflow: hidden;
     .title-img {
