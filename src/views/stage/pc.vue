@@ -150,6 +150,7 @@ const handleOver = () => {
     left: 50%;
     transform: translateX(-50%);
     background: rgb(225, 195, 108);
+    border-color: rgb(225, 195, 108);
   }
 }
 </style>
